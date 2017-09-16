@@ -9,6 +9,7 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 
 ## Pedro Gonzalez notes
+- This project is built for Android.
 - I have started learning Blender, the chair close to the globe is created by me, although I had problems adding textures to it.
 - Some of the items have custom materials and textures I added, as practice. Even the sofa has a normal map. All textures are from free and no-attribution-needed sources. No items from the Asset Store are used.
 - I had problems with the initial setuop of the vr camera. The process to add Gvr has changed and not well described in the lesson, in my opinion.
